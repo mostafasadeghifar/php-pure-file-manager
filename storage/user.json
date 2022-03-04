@@ -1,0 +1,8 @@
+{
+  "users": {
+    "ali":{
+      "email": "sdf",
+      "isActive": true
+    }
+  }
+}
