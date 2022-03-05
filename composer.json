@@ -2,6 +2,11 @@
     "name": "mostafasadeghi/php-pure",
     "type": "n",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "public\\": "public/"
+        }
+    },
     "authors": [
         {
             "name": "mostafasadeghifar",
