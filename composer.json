@@ -13,6 +13,6 @@
             "email": "msadeghifar1996@gmail.com"
         }
     ],
-    "minimum-stability": "main",
+    "minimum-stability": "dev",
     "require": {}
 }
