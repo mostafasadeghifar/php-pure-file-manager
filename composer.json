@@ -1,0 +1,16 @@
+{
+    "name": "mostafasadeghifar/php-pure-framework",
+    "description": "This app provide php pure framework.",
+    "autoload": {
+        "psr-4": {
+            "Mostafasadeghifar\\PhpPureFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mostafasadeghifar",
+            "email": "msadeghifar1996@gmail.com"
+        }
+    ],
+    "require": {}
+}
