@@ -1,0 +1,12 @@
+{
+    "name": "mostafasadeghi/php-pure",
+    "type": "n",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mostafasadeghifar",
+            "email": "msadeghifar1996@gmail.com"
+        }
+    ],
+    "require": {}
+}
